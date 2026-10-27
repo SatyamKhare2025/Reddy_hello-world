@@ -18,7 +18,7 @@
 
     <main>
         <section>
-            <h2>Create Your Learning Account</h2>
+            <h2>Create1 Your Learning Account</h2>
             <p>Join our community and take the next step in your technical career.</p>
 
             <form action="action_page.php" method="post">
